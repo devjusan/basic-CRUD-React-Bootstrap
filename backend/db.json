@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Regina de Fátima",
+      "email": "reginasobreira@hotmail.com"
+    },
+    {
+      "name": "Junior",
+      "email": "jnrplay@hotmail.com",
+      "id": 6
+    }
+  ]
+}
